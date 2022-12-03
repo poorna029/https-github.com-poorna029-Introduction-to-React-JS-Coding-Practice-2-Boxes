@@ -1,0 +1,15 @@
+/* Write your code here. */
+.superleague {
+  display: flex;
+  direction: row;
+  background-color: black;
+  justify-content: center;
+  align-items: center;
+}
+.black {
+  display: flex;
+  direction: column;
+  background-color: black;
+  justify-content: center;
+  align-items: center;
+}
